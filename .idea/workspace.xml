@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a5bf68-bddb-42e3-986f-347fac9c3baa" name="Changes" comment="Código depurado" />
+    <list default="true" id="88a5bf68-bddb-42e3-986f-347fac9c3baa" name="Changes" comment="código refactorizado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,11 +55,36 @@
       <option name="project" value="LOCAL" />
       <updated>1793966218828</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="código refactorizado">
+      <option name="closed" value="true" />
+      <created>1793966440667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793966440667</updated>
+    </task>
+    <task id="LOCAL-00003" summary="código refactorizado">
+      <option name="closed" value="true" />
+      <created>1793966556178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1793966556178</updated>
+    </task>
+    <task id="LOCAL-00004" summary="código refactorizado">
+      <option name="closed" value="true" />
+      <created>1793966575237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1793966575237</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Código depurado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Código depurado" />
+    <MESSAGE value="código refactorizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="código refactorizado" />
   </component>
 </project>
