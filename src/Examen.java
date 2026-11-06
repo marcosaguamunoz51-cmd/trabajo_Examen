@@ -20,8 +20,6 @@ public class Examen {
     }
 
 
-
-
     private static double getPagoPlazos(double FormalizacionPago1, double FormalizacionPago2) {
         double PagoPlazos = (FormalizacionPago1 + FormalizacionPago2) / 3;
         return PagoPlazos;
