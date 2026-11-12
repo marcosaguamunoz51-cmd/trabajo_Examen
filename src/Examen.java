@@ -26,3 +26,4 @@ public class Examen {
         System.out.println("Pedido 2: " + totalOperaciones2 + " euros");
     }
 }
+
